@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.img-style {
+  width: 400px;
+  height: auto;
+}
+.name-style {
+  font-family: roboto;
+  font-weight: bold;
+}
+.list-style {
+  list-style-type: none;
+  margin: 25px;
+}
